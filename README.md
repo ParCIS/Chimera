@@ -1,3 +1,7 @@
+## Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines
+**Chimera** is pulished in SC'21, **Best Paper Finalist**. See the [paper](https://dl.acm.org/doi/abs/10.1145/3458817.3476145) and the [video talk](https://dl.acm.org/doi/abs/10.1145/3458817.3476145#sec-supp) for more details.
+![Chimera](ChimeraThumbnail.png)
+
 ### Data preparation
 https://github.com/microsoft/AzureML-BERT/blob/master/docs/dataprep.md
 
@@ -26,7 +30,7 @@ output: `bert_prof/bert-large_chimera_8stages_8gpus_microbs32_acc1.pdf`
 
 ### Publication
 
-Chimera is pulished in SC'21, **Best Paper Finalist**. See the [paper](https://dl.acm.org/doi/abs/10.1145/3458817.3476145) and the [video talk](https://dl.acm.org/doi/abs/10.1145/3458817.3476145#sec-supp) for more details. To cite our work:
+To cite our work:
 ```bibtex
 @inproceedings{li143,
   author = {Li, Shigang and Hoefler, Torsten},
