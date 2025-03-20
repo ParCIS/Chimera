@@ -1,5 +1,6 @@
 ## Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines
-**Chimera** is pulished in SC'21, **Best Paper Finalist**. See the [paper](https://dl.acm.org/doi/abs/10.1145/3458817.3476145) and the [video talk](https://dl.acm.org/doi/abs/10.1145/3458817.3476145#sec-supp) for more details.
+Bidirectional pipeline parallelism **Chimera** is pulished in **SC'21, Best Paper Finalist**. See the [paper](https://dl.acm.org/doi/abs/10.1145/3458817.3476145) and the [video talk](https://dl.acm.org/doi/abs/10.1145/3458817.3476145#sec-supp) for more details.
+
 ![Chimera](ChimeraThumbnail.png)
 
 ### Data preparation
